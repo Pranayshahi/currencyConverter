@@ -15,3 +15,30 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # currencyConverter
+
+Currency Converter
+📌 Overview
+
+The Currency Converter is a simple application that allows users to convert one currency into another using predefined or live exchange rates. It provides quick and accurate conversions and is useful for learning basic programming concepts as well as real-world financial calculations.
+
+🚀 Features
+
+Convert between multiple currencies
+
+Easy-to-use interface
+
+Real-time or static exchange rate support (based on implementation)
+
+Accurate and fast calculations
+
+Beginner-friendly project structure
+
+🛠️ Technologies Used
+
+React
+
+React Hooks
+
+Basic input/output operations
+
+(Optional) API integration for live exchange rates
